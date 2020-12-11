@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Sticker fleur d'hibiscus",
+    "image": "/images/images.jpg",
+		"id": "sticker_logo",
+		"description": "Fleur d'hibiscus couleur bleu marbré",
+		"price": "2.00"
+  },
+  {
+			"title": "Sticker fleur d'hibiscus en lot de 17 unités",
+			"image": "/images/images-1.jpg",
+			"id": "sticker_logo_pack",
+			"description": "Fleurs d'hibiscus présentant des coloris variès",
+			"price": "10.00"
+		}
+]
