@@ -14,7 +14,7 @@
     "deploy": "yarn run build && yarn run export"
 
   },
-  },
+  
   "dependencies": {
     "next": "10.0.3",
     "react": "17.0.1",

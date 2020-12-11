@@ -54,10 +54,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <script>
-    
-    });
-</script>
+      
 
         <script async src="https://cdn.snipcart.com/themes/v3.0.26/default/snipcart.js" ></script>
 <div id="snipcart" data-api-key="ZDE1MzI5MWItNWQ0Yi00YmE3LTljMzUtODQ2MjU0ZjAzM2ViNjM3NDMyMTI0ODM3NTgxOTE1" hidden data-config-modal-style="side" ></div>
